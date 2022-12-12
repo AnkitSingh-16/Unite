@@ -1,0 +1,89 @@
+body{
+    text-align: center;
+}
+
+.navbarstyle{
+    padding-top: 20px;
+    background: #E14D2A;
+    height: 100px;
+    margin-bottom: 70px;
+}
+
+.nav2{
+    margin-bottom: 120px;
+}
+
+.middlespace{
+    padding-top: 25px;
+}
+
+.middle{
+    padding-bottom: 100px;
+}
+
+h1{
+    font-weight: 400;
+}
+
+span{
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: bolder;
+}
+
+.form-control-file{
+    padding-left: 450px;
+
+}
+
+
+.webname{
+    font-family: 'Sacramento', cursive;
+    font-weight: bold;
+    margin-right: 660px;
+    color: black; 
+    font-size: 40px;
+}
+
+.nav-item{
+    font-size: 25px;
+}
+
+.homepage{
+    margin-right: 100px;
+}
+
+.logo{
+    margin-left: 445px;
+}
+
+.btn{
+    background-color: #E14D2A;
+}
+
+.container-fluid{
+    background-color: #E14D2A;
+    padding-top: 30px;
+    font-style: italic;
+    font-size: larger;
+}
+
+input{
+    writing-mode: horizontal-tb !important;
+    display: inline block;
+    -webkit-rtl-ordering: logical;
+}
+
+.container-bottom{
+    height: 150px;
+    background-color: #E14D2A;
+}
+
+.sec-1{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+
+.p-1{
+    margin-bottom: 100px;
+}
+
